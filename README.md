@@ -1,3 +1,7 @@
-# bit07me
-Proyecto de clases (ejemplo)
-autora Andrea Martinez
+# Web personal para mostrar mi perfil público
+Proyecto consistente en desarrollo de página personal, información y contacto
+
+## Desarrolado por:
+Andrea Martinez 
+
+

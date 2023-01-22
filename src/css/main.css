@@ -1,1 +1,6 @@
-
+body{
+    background-color: rgb(219, 241, 241);
+}
+.name{
+    color: blue;
+}
